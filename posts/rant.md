@@ -3,6 +3,9 @@ title: I hate almost all software
 publish_date: 2011-09-29
 ---
 
+
+TAL
+
 It's unnecessary and complicated at almost every layer. At best I can
 congratulate someone for quickly and simply solving a problem on top of the shit
 that they are given. The only software that I like is one that I can easily
